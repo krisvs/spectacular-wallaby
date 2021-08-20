@@ -29,7 +29,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/feedelo-logo-purple.png"
+        "logo": "images/feedelo-logo-purple.png",
+        "logo_alt": "Feedelo logo"
     },
     "footer": {
         "has_nav": true,
