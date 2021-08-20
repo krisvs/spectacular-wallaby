@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     title: Fidelização e recompensa com enorme retorno
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Saiba mais
         url: /contact
         style: primary
