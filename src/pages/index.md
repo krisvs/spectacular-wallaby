@@ -75,7 +75,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: content section
     content: >-
       ## Lorem ipsum
 
